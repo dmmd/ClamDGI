@@ -1,4 +1,4 @@
-package com.philvarner.clamavj;
+package org.nypl.mss.clamav;
 
 public class ScanResult {
 
